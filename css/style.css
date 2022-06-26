@@ -1067,9 +1067,9 @@ input:focus {
 }
 
 .menu-open .header__menu--popup {
-  -webkit-transform: translatex(calc(0% + 0px));
-      -ms-transform: translatex(calc(0% + 0px));
-          transform: translatex(calc(0% + 0px));
+  -webkit-transform: translatex(0px);
+      -ms-transform: translatex(0px);
+          transform: translatex(0px);
   -webkit-transition: 0.3s linear;
   -o-transition: 0.3s linear;
   transition: 0.3s linear;
